@@ -274,3 +274,14 @@ Follow the on-screen instructions to complete the uninstallation.
 License information will be added in a future release.
 
 लाइसेंस संबंधी जानकारी आगामी संस्करण में जोड़ी जाएगी।
+
+## Download
+
+Latest stable release:
+
+[SOHT v1.0.0 - Stable Release](https://github.com/dharmendramarko66/DM_Office_Tools/releases/tag/v1.0.0)
+
+Download:
+- README.pdf
+- Source Code (zip)
+- Source Code (tar.gz)
