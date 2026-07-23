@@ -192,7 +192,7 @@ The following commands are assigned to the keyboard shortcuts during installatio
 
 | Shortcut | Command |
 |----------|---------|
-| Alt + Space | /bin/bash /home/<username>/.dm_office_tools/stable/run_hindi.sh |
+| /bin/bash "$HOME/.dm_office_tools/stable/run_hindi.sh"
 | Ctrl + Space | /bin/bash "$HOME/.dm_office_tools/test/run_hindi_test.sh" |
 
 ### Important Notes / महत्वपूर्ण बातें
